@@ -1,0 +1,86 @@
+.clock {
+  width: 550px;
+  height: 650px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #2f2f2f;
+  padding: 20px;
+}
+.break {
+  margin: 20px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+.session {
+  margin: 20px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+.display {
+  margin: 20px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  height: 180px;
+}
+#timer-label {
+  font-size: 24px;
+  margin: 5px;
+}
+
+#time-left {
+  margin: 10px;
+  font-size: 40px;
+}
+#time-left.running {
+  color: red;
+}
+
+.setters {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 50%;
+  justify-content: space-around;
+}
+
+button {
+  margin: 20px;
+  padding: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #08415c;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #17c3b2;
+}
+
+h4 {
+  color: black;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: -10px;
+}
+
+span {
+  color: black;
+  font-size: 25px;
+}
+
+.display {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 15px;
+  font-weight: 300;
+}
