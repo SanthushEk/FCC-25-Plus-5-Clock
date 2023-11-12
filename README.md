@@ -1,6 +1,5 @@
-  https://fcc-25plus5clock.netlify.app
-                             
-                             Build a 25 + 5 Clock
+                                      https://fcc-25plus5clock.netlify.app
+Build a 25 + 5 Clock
                              
 Note: React 18 has known incompatibilities with the tests for this project (see issue)
 
